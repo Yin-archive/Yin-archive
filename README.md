@@ -8,13 +8,11 @@ All available materials are open resource, so use them as you'd like.
 Some tools created under collaboration with groups are **not included** here.  
 These are reserved under the usage rights of their respective groups.
 
----
 
 ### Contributing Ideas
 If you have an idea for something that could be useful for the community, open an issue or contact me directly.  
 I’ll review it when possible.
 
----
 
 ### Usage Terms
 All tools and resources in this archive are open resource.  
@@ -27,16 +25,14 @@ They may be copied, edited, shared, and freely used, provided that:
 Yin reserves the right to deny or revoke permission for use if these terms are ignored  
 or if an associated party’s conduct creates issues that cannot be reasonably overlooked.
 
----
 
 ### Issues and Support
 For technical issues:
 - Open an issue in this repository.
 - Include a clear description, affected file or tool name, and any relevant details.
 
-For other concerns, reach out privately.
+For other concerns, reach out privately. (only if it pertains to me or my work.)
 
----
 
 **Yin**
-*don't bastardize my work guys.*
+*Don't bastardize my work guys. Seriously.*
